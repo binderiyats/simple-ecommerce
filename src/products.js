@@ -24,7 +24,7 @@ export const PRODUCTS = [
     productImage: product3,
   },
   {
-    id: 1,
+    id: 4,
     productName: "WLS Van Gogh Denim Jacket",
     price: 299.0,
     productImage: product4,
